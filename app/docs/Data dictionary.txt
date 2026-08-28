@@ -1,0 +1,11 @@
+* ratings.csv
+userId: The User Id of the Customer.
+movieId: The Movie Id.
+rating: Rating for the Movie (out of 5)
+timestamp: Provided Time of Feedback.
+
+* movies.csv
+movieId: Movie ID.
+title: The Title of the Movie.
+genres: The Genre of the Movie.
+
