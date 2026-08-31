@@ -21,7 +21,7 @@ if st.button("Recommend Movies"):
         with st.spinner("Getting your recommendations..."):
 
             response = requests.get(
-                f"http://127.0.0.1:8000/recommendations/{user_id}",
+                f"http://backend:8000/recommendations/{user_id}",
                 timeout=5
             )
 
