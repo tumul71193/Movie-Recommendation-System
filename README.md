@@ -2,6 +2,8 @@
 
 An end-to-end movie recommendation system that provides personalized Top-10 recommendations for existing users and popularity-based recommendations for new users.
 
+Live Demo: http://34.27.252.132:8501/
+
 ## Overview
 
 - Built popularity-based recommendation model.
