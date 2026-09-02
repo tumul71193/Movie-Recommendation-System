@@ -1,6 +1,7 @@
 services:
 
   backend:
+    restart: unless-stopped
     build:
       context: .
       dockerfile: Dockerfile.backend
@@ -8,6 +9,7 @@ services:
       - "8000:8000"
 
   frontend:
+    restart: unless-stopped
     build:
       context: .
       dockerfile: Dockerfile.frontend
