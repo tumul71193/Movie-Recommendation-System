@@ -28,7 +28,7 @@ Precomputed Recommendations
 
 ## Tech Stack
 
-**Python · Pandas · NumPy · Scikit-learn · FastAPI · Streamlit · Docker · Docker Compose · GCP · GitHub**
+**Python · Pandas · NumPy · Scikit-learn · FastAPI · Streamlit · Docker · GCP · GitHub**
 
 ## Evaluation
 
